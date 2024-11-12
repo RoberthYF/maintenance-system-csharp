@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\01_UNI_SISTEMAS\\06_31_Moanso\\semana12\\Proyecto\\ProyectoGrupo1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A8F711EE-9C45-46BD-B158-EDFA9D3EF3FD}|ProyectoGrupo1.csproj|d:\\01_uni_sistemas\\06_31_moanso\\semana12\\proyecto\\proyectogrupo1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8F711EE-9C45-46BD-B158-EDFA9D3EF3FD}|ProyectoGrupo1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\01_UNI_SISTEMAS\\06_31_Moanso\\semana12\\Proyecto\\ProyectoGrupo1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\01_UNI_SISTEMAS\\06_31_Moanso\\semana12\\Proyecto\\ProyectoGrupo1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T21:41:13.328Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
