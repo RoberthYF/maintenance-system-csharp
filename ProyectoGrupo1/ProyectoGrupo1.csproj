@@ -46,14 +46,29 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="MantenedorEquipo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MantenedorEquipo.Designer.cs">
+      <DependentUpon>MantenedorEquipo.cs</DependentUpon>
+    </Compile>
     <Compile Include="MantenedorProveedor.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="MantenedorProveedor.Designer.cs">
       <DependentUpon>MantenedorProveedor.cs</DependentUpon>
     </Compile>
+    <Compile Include="MantenedorUnidadTransporte.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MantenedorUnidadTransporte.Designer.cs">
+      <DependentUpon>MantenedorUnidadTransporte.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="MantenedorEquipo.resx">
+      <DependentUpon>MantenedorEquipo.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="MantenedorProveedor.resx">
       <DependentUpon>MantenedorProveedor.cs</DependentUpon>
     </EmbeddedResource>

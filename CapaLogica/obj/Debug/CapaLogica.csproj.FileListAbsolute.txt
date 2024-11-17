@@ -9,3 +9,14 @@ D:\01_UNI_SISTEMAS\06_31_Moanso\semana14\Proyecto_repo\Grupo1-9055-Proyecto\Capa
 D:\01_UNI_SISTEMAS\06_31_Moanso\semana14\Proyecto_repo\Grupo1-9055-Proyecto\CapaLogica\obj\Debug\CapaLogica.csproj.Up2Date
 D:\01_UNI_SISTEMAS\06_31_Moanso\semana14\Proyecto_repo\Grupo1-9055-Proyecto\CapaLogica\obj\Debug\CapaLogica.dll
 D:\01_UNI_SISTEMAS\06_31_Moanso\semana14\Proyecto_repo\Grupo1-9055-Proyecto\CapaLogica\obj\Debug\CapaLogica.pdb
+C:\Users\STEVEN\source\repos\Grupo1-9055-Proyecto\CapaLogica\bin\Debug\CapaLogica.dll
+C:\Users\STEVEN\source\repos\Grupo1-9055-Proyecto\CapaLogica\bin\Debug\CapaLogica.pdb
+C:\Users\STEVEN\source\repos\Grupo1-9055-Proyecto\CapaLogica\bin\Debug\CapaDatos.dll
+C:\Users\STEVEN\source\repos\Grupo1-9055-Proyecto\CapaLogica\bin\Debug\CapaEntidad.dll
+C:\Users\STEVEN\source\repos\Grupo1-9055-Proyecto\CapaLogica\bin\Debug\CapaDatos.pdb
+C:\Users\STEVEN\source\repos\Grupo1-9055-Proyecto\CapaLogica\bin\Debug\CapaEntidad.pdb
+C:\Users\STEVEN\source\repos\Grupo1-9055-Proyecto\CapaLogica\obj\Debug\CapaLogica.csproj.AssemblyReference.cache
+C:\Users\STEVEN\source\repos\Grupo1-9055-Proyecto\CapaLogica\obj\Debug\CapaLogica.csproj.CoreCompileInputs.cache
+C:\Users\STEVEN\source\repos\Grupo1-9055-Proyecto\CapaLogica\obj\Debug\CapaLogica.csproj.Up2Date
+C:\Users\STEVEN\source\repos\Grupo1-9055-Proyecto\CapaLogica\obj\Debug\CapaLogica.dll
+C:\Users\STEVEN\source\repos\Grupo1-9055-Proyecto\CapaLogica\obj\Debug\CapaLogica.pdb

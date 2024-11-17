@@ -4,3 +4,9 @@ D:\01_UNI_SISTEMAS\06_31_Moanso\semana14\Proyecto_repo\Grupo1-9055-Proyecto\Capa
 D:\01_UNI_SISTEMAS\06_31_Moanso\semana14\Proyecto_repo\Grupo1-9055-Proyecto\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
 D:\01_UNI_SISTEMAS\06_31_Moanso\semana14\Proyecto_repo\Grupo1-9055-Proyecto\CapaEntidad\obj\Debug\CapaEntidad.dll
 D:\01_UNI_SISTEMAS\06_31_Moanso\semana14\Proyecto_repo\Grupo1-9055-Proyecto\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\STEVEN\source\repos\Grupo1-9055-Proyecto\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\STEVEN\source\repos\Grupo1-9055-Proyecto\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\STEVEN\source\repos\Grupo1-9055-Proyecto\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\STEVEN\source\repos\Grupo1-9055-Proyecto\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\STEVEN\source\repos\Grupo1-9055-Proyecto\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\STEVEN\source\repos\Grupo1-9055-Proyecto\CapaEntidad\obj\Debug\CapaEntidad.pdb
