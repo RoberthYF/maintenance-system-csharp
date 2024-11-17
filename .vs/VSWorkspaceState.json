@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
+    "\\CapaDatos",
+    "\\CapaEntidad",
     "\\ProyectoGrupo1"
   ],
-  "SelectedNode": "\\ProyectoGrupo1\\Program.cs",
+  "SelectedNode": "\\ProyectoGrupo1\\ProyectoGrupo1.sln",
   "PreviewInSolutionExplorer": false
 }

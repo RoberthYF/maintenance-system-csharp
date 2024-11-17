@@ -1,0 +1,11 @@
+D:\01_UNI_SISTEMAS\06_31_Moanso\semana14\Proyecto_repo\Grupo1-9055-Proyecto\CapaLogica\bin\Debug\CapaLogica.dll
+D:\01_UNI_SISTEMAS\06_31_Moanso\semana14\Proyecto_repo\Grupo1-9055-Proyecto\CapaLogica\bin\Debug\CapaLogica.pdb
+D:\01_UNI_SISTEMAS\06_31_Moanso\semana14\Proyecto_repo\Grupo1-9055-Proyecto\CapaLogica\bin\Debug\CapaDatos.dll
+D:\01_UNI_SISTEMAS\06_31_Moanso\semana14\Proyecto_repo\Grupo1-9055-Proyecto\CapaLogica\bin\Debug\CapaEntidad.dll
+D:\01_UNI_SISTEMAS\06_31_Moanso\semana14\Proyecto_repo\Grupo1-9055-Proyecto\CapaLogica\bin\Debug\CapaDatos.pdb
+D:\01_UNI_SISTEMAS\06_31_Moanso\semana14\Proyecto_repo\Grupo1-9055-Proyecto\CapaLogica\bin\Debug\CapaEntidad.pdb
+D:\01_UNI_SISTEMAS\06_31_Moanso\semana14\Proyecto_repo\Grupo1-9055-Proyecto\CapaLogica\obj\Debug\CapaLogica.csproj.AssemblyReference.cache
+D:\01_UNI_SISTEMAS\06_31_Moanso\semana14\Proyecto_repo\Grupo1-9055-Proyecto\CapaLogica\obj\Debug\CapaLogica.csproj.CoreCompileInputs.cache
+D:\01_UNI_SISTEMAS\06_31_Moanso\semana14\Proyecto_repo\Grupo1-9055-Proyecto\CapaLogica\obj\Debug\CapaLogica.csproj.Up2Date
+D:\01_UNI_SISTEMAS\06_31_Moanso\semana14\Proyecto_repo\Grupo1-9055-Proyecto\CapaLogica\obj\Debug\CapaLogica.dll
+D:\01_UNI_SISTEMAS\06_31_Moanso\semana14\Proyecto_repo\Grupo1-9055-Proyecto\CapaLogica\obj\Debug\CapaLogica.pdb

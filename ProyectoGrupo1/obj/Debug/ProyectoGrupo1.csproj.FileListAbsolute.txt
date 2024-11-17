@@ -1,0 +1,17 @@
+D:\01_UNI_SISTEMAS\06_31_Moanso\semana14\Proyecto_repo\Grupo1-9055-Proyecto\ProyectoGrupo1\obj\Debug\ProyectoGrupo1.csproj.AssemblyReference.cache
+D:\01_UNI_SISTEMAS\06_31_Moanso\semana14\Proyecto_repo\Grupo1-9055-Proyecto\ProyectoGrupo1\obj\Debug\ProyectoGrupo1.Properties.Resources.resources
+D:\01_UNI_SISTEMAS\06_31_Moanso\semana14\Proyecto_repo\Grupo1-9055-Proyecto\ProyectoGrupo1\obj\Debug\ProyectoGrupo1.csproj.GenerateResource.cache
+D:\01_UNI_SISTEMAS\06_31_Moanso\semana14\Proyecto_repo\Grupo1-9055-Proyecto\ProyectoGrupo1\obj\Debug\ProyectoGrupo1.csproj.CoreCompileInputs.cache
+D:\01_UNI_SISTEMAS\06_31_Moanso\semana14\Proyecto_repo\Grupo1-9055-Proyecto\ProyectoGrupo1\bin\Debug\ProyectoGrupo1.exe.config
+D:\01_UNI_SISTEMAS\06_31_Moanso\semana14\Proyecto_repo\Grupo1-9055-Proyecto\ProyectoGrupo1\bin\Debug\ProyectoGrupo1.exe
+D:\01_UNI_SISTEMAS\06_31_Moanso\semana14\Proyecto_repo\Grupo1-9055-Proyecto\ProyectoGrupo1\bin\Debug\ProyectoGrupo1.pdb
+D:\01_UNI_SISTEMAS\06_31_Moanso\semana14\Proyecto_repo\Grupo1-9055-Proyecto\ProyectoGrupo1\bin\Debug\CapaEntidad.dll
+D:\01_UNI_SISTEMAS\06_31_Moanso\semana14\Proyecto_repo\Grupo1-9055-Proyecto\ProyectoGrupo1\bin\Debug\CapaLogica.dll
+D:\01_UNI_SISTEMAS\06_31_Moanso\semana14\Proyecto_repo\Grupo1-9055-Proyecto\ProyectoGrupo1\bin\Debug\CapaDatos.dll
+D:\01_UNI_SISTEMAS\06_31_Moanso\semana14\Proyecto_repo\Grupo1-9055-Proyecto\ProyectoGrupo1\bin\Debug\CapaEntidad.pdb
+D:\01_UNI_SISTEMAS\06_31_Moanso\semana14\Proyecto_repo\Grupo1-9055-Proyecto\ProyectoGrupo1\bin\Debug\CapaLogica.pdb
+D:\01_UNI_SISTEMAS\06_31_Moanso\semana14\Proyecto_repo\Grupo1-9055-Proyecto\ProyectoGrupo1\bin\Debug\CapaDatos.pdb
+D:\01_UNI_SISTEMAS\06_31_Moanso\semana14\Proyecto_repo\Grupo1-9055-Proyecto\ProyectoGrupo1\obj\Debug\Proyecto.49C10F85.Up2Date
+D:\01_UNI_SISTEMAS\06_31_Moanso\semana14\Proyecto_repo\Grupo1-9055-Proyecto\ProyectoGrupo1\obj\Debug\ProyectoGrupo1.exe
+D:\01_UNI_SISTEMAS\06_31_Moanso\semana14\Proyecto_repo\Grupo1-9055-Proyecto\ProyectoGrupo1\obj\Debug\ProyectoGrupo1.pdb
+D:\01_UNI_SISTEMAS\06_31_Moanso\semana14\Proyecto_repo\Grupo1-9055-Proyecto\ProyectoGrupo1\obj\Debug\ProyectoGrupo1.MantenedorProveedor.resources
