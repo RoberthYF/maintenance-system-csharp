@@ -32,3 +32,5 @@ C:\Users\STEVEN\source\repos\Grupo1-9055-Proyecto\ProyectoGrupo1\obj\Debug\Proye
 C:\Users\STEVEN\source\repos\Grupo1-9055-Proyecto\ProyectoGrupo1\obj\Debug\Proyecto.49C10F85.Up2Date
 C:\Users\STEVEN\source\repos\Grupo1-9055-Proyecto\ProyectoGrupo1\obj\Debug\ProyectoGrupo1.exe
 C:\Users\STEVEN\source\repos\Grupo1-9055-Proyecto\ProyectoGrupo1\obj\Debug\ProyectoGrupo1.pdb
+D:\01_UNI_SISTEMAS\06_31_Moanso\semana14\Proyecto_repo\Grupo1-9055-Proyecto\ProyectoGrupo1\obj\Debug\ProyectoGrupo1.MantenedorEquipo.resources
+D:\01_UNI_SISTEMAS\06_31_Moanso\semana14\Proyecto_repo\Grupo1-9055-Proyecto\ProyectoGrupo1\obj\Debug\ProyectoGrupo1.MantenedorUnidadTransporte.resources

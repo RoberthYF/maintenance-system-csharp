@@ -72,6 +72,9 @@
     <EmbeddedResource Include="MantenedorProveedor.resx">
       <DependentUpon>MantenedorProveedor.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="MantenedorUnidadTransporte.resx">
+      <DependentUpon>MantenedorUnidadTransporte.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>

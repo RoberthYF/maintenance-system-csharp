@@ -1,25 +1,19 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\STEVEN\\source\\repos\\Grupo1-9055-Proyecto\\ProyectoGrupo1\\",
+  "WorkspaceRootPath": "D:\\01_UNI_SISTEMAS\\06_31_Moanso\\semana14\\Proyecto_repo\\Grupo1-9055-Proyecto\\ProyectoGrupo1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A8F711EE-9C45-46BD-B158-EDFA9D3EF3FD}|ProyectoGrupo1.csproj|c:\\users\\steven\\source\\repos\\grupo1-9055-proyecto\\proyectogrupo1\\mantenedorequipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A8F711EE-9C45-46BD-B158-EDFA9D3EF3FD}|ProyectoGrupo1.csproj|solutionrelative:mantenedorequipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{725C8D8C-BE9F-45B6-A262-F624415B7B3A}|..\\CapaDatos\\CapaDatos.csproj|d:\\01_uni_sistemas\\06_31_moanso\\semana14\\proyecto_repo\\grupo1-9055-proyecto\\capadatos\\datunidadtransporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A8F711EE-9C45-46BD-B158-EDFA9D3EF3FD}|ProyectoGrupo1.csproj|c:\\users\\steven\\source\\repos\\grupo1-9055-proyecto\\proyectogrupo1\\mantenedorunidadtransporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A8F711EE-9C45-46BD-B158-EDFA9D3EF3FD}|ProyectoGrupo1.csproj|solutionrelative:mantenedorunidadtransporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{725C8D8C-BE9F-45B6-A262-F624415B7B3A}|..\\CapaDatos\\CapaDatos.csproj|d:\\01_uni_sistemas\\06_31_moanso\\semana14\\proyecto_repo\\grupo1-9055-proyecto\\capadatos\\datproveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A8F711EE-9C45-46BD-B158-EDFA9D3EF3FD}|ProyectoGrupo1.csproj|c:\\users\\steven\\source\\repos\\grupo1-9055-proyecto\\proyectogrupo1\\mantenedorproveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A8F711EE-9C45-46BD-B158-EDFA9D3EF3FD}|ProyectoGrupo1.csproj|solutionrelative:mantenedorproveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{1648F53C-264A-4209-AE6A-17BABE279157}|..\\CapaLogica\\CapaLogica.csproj|d:\\01_uni_sistemas\\06_31_moanso\\semana14\\proyecto_repo\\grupo1-9055-proyecto\\capalogica\\logproveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A8F711EE-9C45-46BD-B158-EDFA9D3EF3FD}|ProyectoGrupo1.csproj|C:\\Users\\STEVEN\\source\\repos\\Grupo1-9055-Proyecto\\ProyectoGrupo1\\mantenedorproveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A8F711EE-9C45-46BD-B158-EDFA9D3EF3FD}|ProyectoGrupo1.csproj|solutionrelative:mantenedorproveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\01_UNI_SISTEMAS\\06_31_Moanso\\semana14\\Proyecto_repo\\Grupo1-9055-Proyecto\\CapaDatos\\datProveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A8F711EE-9C45-46BD-B158-EDFA9D3EF3FD}|ProyectoGrupo1.csproj|d:\\01_uni_sistemas\\06_31_moanso\\semana14\\proyecto_repo\\grupo1-9055-proyecto\\proyectogrupo1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8F711EE-9C45-46BD-B158-EDFA9D3EF3FD}|ProyectoGrupo1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -29,8 +23,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
@@ -46,61 +44,75 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MantenedorEquipo.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\STEVEN\\source\\repos\\Grupo1-9055-Proyecto\\ProyectoGrupo1\\MantenedorEquipo.cs",
-              "RelativeDocumentMoniker": "MantenedorEquipo.cs",
-              "ToolTip": "C:\\Users\\STEVEN\\source\\repos\\Grupo1-9055-Proyecto\\ProyectoGrupo1\\MantenedorEquipo.cs [Dise\u00F1o]",
-              "RelativeToolTip": "MantenedorEquipo.cs [Dise\u00F1o]",
+              "Title": "datUnidadTransporte.cs",
+              "DocumentMoniker": "D:\\01_UNI_SISTEMAS\\06_31_Moanso\\semana14\\Proyecto_repo\\Grupo1-9055-Proyecto\\CapaDatos\\datUnidadTransporte.cs",
+              "RelativeDocumentMoniker": "..\\CapaDatos\\datUnidadTransporte.cs",
+              "ToolTip": "D:\\01_UNI_SISTEMAS\\06_31_Moanso\\semana14\\Proyecto_repo\\Grupo1-9055-Proyecto\\CapaDatos\\datUnidadTransporte.cs",
+              "RelativeToolTip": "..\\CapaDatos\\datUnidadTransporte.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAMwDYAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-17T23:42:38.581Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MantenedorUnidadTransporte.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\STEVEN\\source\\repos\\Grupo1-9055-Proyecto\\ProyectoGrupo1\\MantenedorUnidadTransporte.cs",
-              "RelativeDocumentMoniker": "MantenedorUnidadTransporte.cs",
-              "ToolTip": "C:\\Users\\STEVEN\\source\\repos\\Grupo1-9055-Proyecto\\ProyectoGrupo1\\MantenedorUnidadTransporte.cs [Dise\u00F1o]",
-              "RelativeToolTip": "MantenedorUnidadTransporte.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-17T23:42:13.613Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "datProveedor.cs",
-              "DocumentMoniker": "D:\\01_UNI_SISTEMAS\\06_31_Moanso\\semana14\\Proyecto_repo\\Grupo1-9055-Proyecto\\CapaDatos\\datProveedor.cs",
-              "ToolTip": "D:\\01_UNI_SISTEMAS\\06_31_Moanso\\semana14\\Proyecto_repo\\Grupo1-9055-Proyecto\\CapaDatos\\datProveedor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJMAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-17T03:51:06.4Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MantenedorProveedor.cs",
-              "DocumentMoniker": "C:\\Users\\STEVEN\\source\\repos\\Grupo1-9055-Proyecto\\ProyectoGrupo1\\MantenedorProveedor.cs",
-              "RelativeDocumentMoniker": "MantenedorProveedor.cs",
-              "ToolTip": "C:\\Users\\STEVEN\\source\\repos\\Grupo1-9055-Proyecto\\ProyectoGrupo1\\MantenedorProveedor.cs",
-              "RelativeToolTip": "MantenedorProveedor.cs",
-              "ViewState": "AgIAAFcAAAAAAAAAAAASwGYAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-17T02:53:35.44Z",
+              "WhenOpened": "2024-11-18T03:37:11.307Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MantenedorProveedor.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\STEVEN\\source\\repos\\Grupo1-9055-Proyecto\\ProyectoGrupo1\\MantenedorProveedor.cs",
-              "RelativeDocumentMoniker": "MantenedorProveedor.cs",
-              "ToolTip": "C:\\Users\\STEVEN\\source\\repos\\Grupo1-9055-Proyecto\\ProyectoGrupo1\\MantenedorProveedor.cs [Dise\u00F1o]",
-              "RelativeToolTip": "MantenedorProveedor.cs [Dise\u00F1o]",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\01_UNI_SISTEMAS\\06_31_Moanso\\semana14\\Proyecto_repo\\Grupo1-9055-Proyecto\\ProyectoGrupo1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\01_UNI_SISTEMAS\\06_31_Moanso\\semana14\\Proyecto_repo\\Grupo1-9055-Proyecto\\ProyectoGrupo1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-17T02:53:31.081Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-11-18T03:23:31.141Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "1f1325e5-1b12-4dcf-9d41-f9ae5dc47e21",
+        "Display": 0,
+        "X": 888,
+        "Y": 92,
+        "Width": 920,
+        "Height": 945,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "logProveedor.cs",
+              "DocumentMoniker": "D:\\01_UNI_SISTEMAS\\06_31_Moanso\\semana14\\Proyecto_repo\\Grupo1-9055-Proyecto\\CapaLogica\\logProveedor.cs",
+              "RelativeDocumentMoniker": "..\\CapaLogica\\logProveedor.cs",
+              "ToolTip": "D:\\01_UNI_SISTEMAS\\06_31_Moanso\\semana14\\Proyecto_repo\\Grupo1-9055-Proyecto\\CapaLogica\\logProveedor.cs",
+              "RelativeToolTip": "..\\CapaLogica\\logProveedor.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAjwB0AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T03:49:50.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "datProveedor.cs",
+              "DocumentMoniker": "D:\\01_UNI_SISTEMAS\\06_31_Moanso\\semana14\\Proyecto_repo\\Grupo1-9055-Proyecto\\CapaDatos\\datProveedor.cs",
+              "RelativeDocumentMoniker": "..\\CapaDatos\\datProveedor.cs",
+              "ToolTip": "D:\\01_UNI_SISTEMAS\\06_31_Moanso\\semana14\\Proyecto_repo\\Grupo1-9055-Proyecto\\CapaDatos\\datProveedor.cs",
+              "RelativeToolTip": "..\\CapaDatos\\datProveedor.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAABkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T03:38:20.895Z",
+              "EditorCaption": ""
             }
           ]
         }

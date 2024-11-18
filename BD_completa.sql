@@ -72,3 +72,75 @@ BEGIN
     WHERE idProveedor = @idProveedor;
 END;
 GO
+
+-------------------------------------------------------------------------------------------
+CREATE TABLE dbo.[UnidadesTransporte](
+    [idUnidadTransporte] nvarchar(50) NOT NULL,
+    [nombreUnidTransporte] nvarchar(50) NOT NULL,
+    [placaUnidTransporte] nvarchar(15) NOT NULL,
+	[marca] nvarchar (20) NOT NULL,
+	[estUT] bit NULL,
+    CONSTRAINT [PK_UndTransp] PRIMARY KEY CLUSTERED 
+    (
+        [idUnidadTransporte]
+    ) WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY];
+
+DROP TABLE UnidadesTransporte 
+
+CREATE PROCEDURE dbo.[spListarUT]
+AS
+BEGIN
+    SELECT idUnidadTransporte, nombreUnidTransporte, placaUnidTransporte, marca, estUT
+    FROM UnidadesTransporte
+	WHERE estUT = 1;
+END;
+GO
+
+DROP PROCEDURE spListarUT
+
+CREATE PROCEDURE dbo.[spInsertarUT]
+    @idUnidadTransporte nvarchar(50),
+    @nombreUnidTransporte nvarchar(50),
+    @placaUnidTransporte nvarchar(15),
+    @marca nvarchar(20),
+	@estUT bit
+AS
+BEGIN
+    INSERT INTO UnidadesTransporte (idUnidadTransporte, nombreUnidTransporte, placaUnidTransporte, marca, estUT)
+    VALUES (@idUnidadTransporte, @nombreUnidTransporte, @placaUnidTransporte, @marca, @estUT);
+END;
+GO
+
+DROP PROCEDURE spInsertarUT
+
+CREATE PROCEDURE dbo.[spEditaUT]
+	@idUnidadTransporte nvarchar(50),
+    @nombreUnidTransporte nvarchar(50),
+    @placaUnidTransporte nvarchar(15),
+    @marca nvarchar(20),
+	@estUT bit
+AS
+BEGIN
+    UPDATE UnidadesTransporte
+    SET
+        nombreUnidTransporte = @nombreUnidTransporte,
+        placaUnidTransporte = @placaUnidTransporte,
+        marca = @marca,
+		estUT = @estUT
+    WHERE idUnidadTransporte = @idUnidadTransporte;
+END;
+GO
+
+DROP PROCEDURE spEditaUT
+
+
+CREATE PROCEDURE dbo.[spDeshabilitaUT]
+    @idUnidadTransporte nvarchar(50)
+AS
+BEGIN
+    UPDATE UnidadesTransporte
+    SET estUT = 0
+    WHERE idUnidadTransporte = @idUnidadTransporte;
+END;
+GO
