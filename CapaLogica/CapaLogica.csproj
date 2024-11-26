@@ -41,8 +41,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="logProveedor.cs" />
-    <Compile Include="logUnidadTransporte.cs" />
+    <Compile Include="logActivo.cs" />
+    <Compile Include="logMantenimiento.cs" />
+    <Compile Include="logMaterial.cs" />
+    <Compile Include="logOperario.cs" />
+    <Compile Include="logRequerimientoMateriales.cs" />
+    <Compile Include="logTipoActivo.cs" />
+    <Compile Include="logTipoMantenimiento.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

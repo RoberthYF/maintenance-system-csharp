@@ -42,8 +42,13 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Conexion.cs" />
-    <Compile Include="datProveedor.cs" />
-    <Compile Include="datUnidadTransporte.cs" />
+    <Compile Include="datActivo.cs" />
+    <Compile Include="datMantenimiento.cs" />
+    <Compile Include="datMaterial.cs" />
+    <Compile Include="datOperario.cs" />
+    <Compile Include="datRequerimientoMateriales.cs" />
+    <Compile Include="datTipoActivo.cs" />
+    <Compile Include="datTipoMantenimiento.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

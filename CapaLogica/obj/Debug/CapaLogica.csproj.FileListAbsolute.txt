@@ -20,3 +20,69 @@ C:\Users\STEVEN\source\repos\Grupo1-9055-Proyecto\CapaLogica\obj\Debug\CapaLogic
 C:\Users\STEVEN\source\repos\Grupo1-9055-Proyecto\CapaLogica\obj\Debug\CapaLogica.csproj.Up2Date
 C:\Users\STEVEN\source\repos\Grupo1-9055-Proyecto\CapaLogica\obj\Debug\CapaLogica.dll
 C:\Users\STEVEN\source\repos\Grupo1-9055-Proyecto\CapaLogica\obj\Debug\CapaLogica.pdb
+C:\Users\STEVEN\source\repos\PruebaGit\Grupo1-9055-Proyecto\CapaLogica\bin\Debug\CapaLogica.dll
+C:\Users\STEVEN\source\repos\PruebaGit\Grupo1-9055-Proyecto\CapaLogica\bin\Debug\CapaLogica.pdb
+C:\Users\STEVEN\source\repos\PruebaGit\Grupo1-9055-Proyecto\CapaLogica\bin\Debug\CapaDatos.dll
+C:\Users\STEVEN\source\repos\PruebaGit\Grupo1-9055-Proyecto\CapaLogica\bin\Debug\CapaEntidad.dll
+C:\Users\STEVEN\source\repos\PruebaGit\Grupo1-9055-Proyecto\CapaLogica\bin\Debug\CapaDatos.pdb
+C:\Users\STEVEN\source\repos\PruebaGit\Grupo1-9055-Proyecto\CapaLogica\bin\Debug\CapaEntidad.pdb
+C:\Users\STEVEN\source\repos\PruebaGit\Grupo1-9055-Proyecto\CapaLogica\obj\Debug\CapaLogica.csproj.AssemblyReference.cache
+C:\Users\STEVEN\source\repos\PruebaGit\Grupo1-9055-Proyecto\CapaLogica\obj\Debug\CapaLogica.csproj.CoreCompileInputs.cache
+C:\Users\STEVEN\source\repos\PruebaGit\Grupo1-9055-Proyecto\CapaLogica\obj\Debug\CapaLogica.csproj.Up2Date
+C:\Users\STEVEN\source\repos\PruebaGit\Grupo1-9055-Proyecto\CapaLogica\obj\Debug\CapaLogica.dll
+C:\Users\STEVEN\source\repos\PruebaGit\Grupo1-9055-Proyecto\CapaLogica\obj\Debug\CapaLogica.pdb
+C:\UNIVERSIDAD\MOANSO\PROYECTO - PROMAS\Grupo1-9055-Proyecto\CapaLogica\obj\Debug\CapaLogica.csproj.AssemblyReference.cache
+C:\UNIVERSIDAD\MOANSO\PROYECTO - PROMAS\Grupo1-9055-Proyecto\CapaLogica\obj\Debug\CapaLogica.csproj.CoreCompileInputs.cache
+C:\UNIVERSIDAD\MOANSO\PROYECTO - PROMAS\Grupo1-9055-Proyecto\CapaLogica\bin\Debug\CapaLogica.dll
+C:\UNIVERSIDAD\MOANSO\PROYECTO - PROMAS\Grupo1-9055-Proyecto\CapaLogica\bin\Debug\CapaLogica.pdb
+C:\UNIVERSIDAD\MOANSO\PROYECTO - PROMAS\Grupo1-9055-Proyecto\CapaLogica\bin\Debug\CapaDatos.dll
+C:\UNIVERSIDAD\MOANSO\PROYECTO - PROMAS\Grupo1-9055-Proyecto\CapaLogica\bin\Debug\CapaEntidad.dll
+C:\UNIVERSIDAD\MOANSO\PROYECTO - PROMAS\Grupo1-9055-Proyecto\CapaLogica\bin\Debug\CapaDatos.pdb
+C:\UNIVERSIDAD\MOANSO\PROYECTO - PROMAS\Grupo1-9055-Proyecto\CapaLogica\bin\Debug\CapaEntidad.pdb
+C:\UNIVERSIDAD\MOANSO\PROYECTO - PROMAS\Grupo1-9055-Proyecto\CapaLogica\obj\Debug\CapaLogica.csproj.Up2Date
+C:\UNIVERSIDAD\MOANSO\PROYECTO - PROMAS\Grupo1-9055-Proyecto\CapaLogica\obj\Debug\CapaLogica.dll
+C:\UNIVERSIDAD\MOANSO\PROYECTO - PROMAS\Grupo1-9055-Proyecto\CapaLogica\obj\Debug\CapaLogica.pdb
+C:\Users\STEVEN\Downloads\Grupo1-9055-Proyecto\Grupo1-9055-Proyecto\CapaLogica\bin\Debug\CapaLogica.dll
+C:\Users\STEVEN\Downloads\Grupo1-9055-Proyecto\Grupo1-9055-Proyecto\CapaLogica\bin\Debug\CapaLogica.pdb
+C:\Users\STEVEN\Downloads\Grupo1-9055-Proyecto\Grupo1-9055-Proyecto\CapaLogica\bin\Debug\CapaDatos.dll
+C:\Users\STEVEN\Downloads\Grupo1-9055-Proyecto\Grupo1-9055-Proyecto\CapaLogica\bin\Debug\CapaEntidad.dll
+C:\Users\STEVEN\Downloads\Grupo1-9055-Proyecto\Grupo1-9055-Proyecto\CapaLogica\bin\Debug\CapaDatos.pdb
+C:\Users\STEVEN\Downloads\Grupo1-9055-Proyecto\Grupo1-9055-Proyecto\CapaLogica\bin\Debug\CapaEntidad.pdb
+C:\Users\STEVEN\Downloads\Grupo1-9055-Proyecto\Grupo1-9055-Proyecto\CapaLogica\obj\Debug\CapaLogica.csproj.AssemblyReference.cache
+C:\Users\STEVEN\Downloads\Grupo1-9055-Proyecto\Grupo1-9055-Proyecto\CapaLogica\obj\Debug\CapaLogica.csproj.CoreCompileInputs.cache
+C:\Users\STEVEN\Downloads\Grupo1-9055-Proyecto\Grupo1-9055-Proyecto\CapaLogica\obj\Debug\CapaLogica.csproj.Up2Date
+C:\Users\STEVEN\Downloads\Grupo1-9055-Proyecto\Grupo1-9055-Proyecto\CapaLogica\obj\Debug\CapaLogica.dll
+C:\Users\STEVEN\Downloads\Grupo1-9055-Proyecto\Grupo1-9055-Proyecto\CapaLogica\obj\Debug\CapaLogica.pdb
+C:\Users\Jordan\Downloads\Grupo1-9055-Proyecto\Grupo1-9055-Proyecto\Grupo1-9055-Proyecto\CapaLogica\bin\Debug\CapaLogica.dll
+C:\Users\Jordan\Downloads\Grupo1-9055-Proyecto\Grupo1-9055-Proyecto\Grupo1-9055-Proyecto\CapaLogica\bin\Debug\CapaLogica.pdb
+C:\Users\Jordan\Downloads\Grupo1-9055-Proyecto\Grupo1-9055-Proyecto\Grupo1-9055-Proyecto\CapaLogica\bin\Debug\CapaDatos.dll
+C:\Users\Jordan\Downloads\Grupo1-9055-Proyecto\Grupo1-9055-Proyecto\Grupo1-9055-Proyecto\CapaLogica\bin\Debug\CapaEntidad.dll
+C:\Users\Jordan\Downloads\Grupo1-9055-Proyecto\Grupo1-9055-Proyecto\Grupo1-9055-Proyecto\CapaLogica\bin\Debug\CapaDatos.pdb
+C:\Users\Jordan\Downloads\Grupo1-9055-Proyecto\Grupo1-9055-Proyecto\Grupo1-9055-Proyecto\CapaLogica\bin\Debug\CapaEntidad.pdb
+C:\Users\Jordan\Downloads\Grupo1-9055-Proyecto\Grupo1-9055-Proyecto\Grupo1-9055-Proyecto\CapaLogica\obj\Debug\CapaLogica.csproj.AssemblyReference.cache
+C:\Users\Jordan\Downloads\Grupo1-9055-Proyecto\Grupo1-9055-Proyecto\Grupo1-9055-Proyecto\CapaLogica\obj\Debug\CapaLogica.csproj.CoreCompileInputs.cache
+C:\Users\Jordan\Downloads\Grupo1-9055-Proyecto\Grupo1-9055-Proyecto\Grupo1-9055-Proyecto\CapaLogica\obj\Debug\CapaLogica.csproj.Up2Date
+C:\Users\Jordan\Downloads\Grupo1-9055-Proyecto\Grupo1-9055-Proyecto\Grupo1-9055-Proyecto\CapaLogica\obj\Debug\CapaLogica.dll
+C:\Users\Jordan\Downloads\Grupo1-9055-Proyecto\Grupo1-9055-Proyecto\Grupo1-9055-Proyecto\CapaLogica\obj\Debug\CapaLogica.pdb
+D:\EF MOANSON\Grupo1-9055-Proyecto\CapaLogica\bin\Debug\CapaLogica.dll
+D:\EF MOANSON\Grupo1-9055-Proyecto\CapaLogica\bin\Debug\CapaLogica.pdb
+D:\EF MOANSON\Grupo1-9055-Proyecto\CapaLogica\bin\Debug\CapaDatos.dll
+D:\EF MOANSON\Grupo1-9055-Proyecto\CapaLogica\bin\Debug\CapaEntidad.dll
+D:\EF MOANSON\Grupo1-9055-Proyecto\CapaLogica\bin\Debug\CapaDatos.pdb
+D:\EF MOANSON\Grupo1-9055-Proyecto\CapaLogica\bin\Debug\CapaEntidad.pdb
+D:\EF MOANSON\Grupo1-9055-Proyecto\CapaLogica\obj\Debug\CapaLogica.csproj.AssemblyReference.cache
+D:\EF MOANSON\Grupo1-9055-Proyecto\CapaLogica\obj\Debug\CapaLogica.csproj.CoreCompileInputs.cache
+D:\EF MOANSON\Grupo1-9055-Proyecto\CapaLogica\obj\Debug\CapaLogica.csproj.Up2Date
+D:\EF MOANSON\Grupo1-9055-Proyecto\CapaLogica\obj\Debug\CapaLogica.dll
+D:\EF MOANSON\Grupo1-9055-Proyecto\CapaLogica\obj\Debug\CapaLogica.pdb
+C:\Users\Jordan\Downloads\EF MOANSON (2)\EF MOANSON\Grupo1-9055-Proyecto\CapaLogica\bin\Debug\CapaLogica.dll
+C:\Users\Jordan\Downloads\EF MOANSON (2)\EF MOANSON\Grupo1-9055-Proyecto\CapaLogica\bin\Debug\CapaLogica.pdb
+C:\Users\Jordan\Downloads\EF MOANSON (2)\EF MOANSON\Grupo1-9055-Proyecto\CapaLogica\bin\Debug\CapaDatos.dll
+C:\Users\Jordan\Downloads\EF MOANSON (2)\EF MOANSON\Grupo1-9055-Proyecto\CapaLogica\bin\Debug\CapaEntidad.dll
+C:\Users\Jordan\Downloads\EF MOANSON (2)\EF MOANSON\Grupo1-9055-Proyecto\CapaLogica\bin\Debug\CapaDatos.pdb
+C:\Users\Jordan\Downloads\EF MOANSON (2)\EF MOANSON\Grupo1-9055-Proyecto\CapaLogica\bin\Debug\CapaEntidad.pdb
+C:\Users\Jordan\Downloads\EF MOANSON (2)\EF MOANSON\Grupo1-9055-Proyecto\CapaLogica\obj\Debug\CapaLogica.csproj.AssemblyReference.cache
+C:\Users\Jordan\Downloads\EF MOANSON (2)\EF MOANSON\Grupo1-9055-Proyecto\CapaLogica\obj\Debug\CapaLogica.csproj.CoreCompileInputs.cache
+C:\Users\Jordan\Downloads\EF MOANSON (2)\EF MOANSON\Grupo1-9055-Proyecto\CapaLogica\obj\Debug\CapaLogica.csproj.Up2Date
+C:\Users\Jordan\Downloads\EF MOANSON (2)\EF MOANSON\Grupo1-9055-Proyecto\CapaLogica\obj\Debug\CapaLogica.dll
+C:\Users\Jordan\Downloads\EF MOANSON (2)\EF MOANSON\Grupo1-9055-Proyecto\CapaLogica\obj\Debug\CapaLogica.pdb

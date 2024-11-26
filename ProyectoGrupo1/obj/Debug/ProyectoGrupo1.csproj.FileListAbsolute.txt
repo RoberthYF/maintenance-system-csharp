@@ -34,3 +34,138 @@ C:\Users\STEVEN\source\repos\Grupo1-9055-Proyecto\ProyectoGrupo1\obj\Debug\Proye
 C:\Users\STEVEN\source\repos\Grupo1-9055-Proyecto\ProyectoGrupo1\obj\Debug\ProyectoGrupo1.pdb
 D:\01_UNI_SISTEMAS\06_31_Moanso\semana14\Proyecto_repo\Grupo1-9055-Proyecto\ProyectoGrupo1\obj\Debug\ProyectoGrupo1.MantenedorEquipo.resources
 D:\01_UNI_SISTEMAS\06_31_Moanso\semana14\Proyecto_repo\Grupo1-9055-Proyecto\ProyectoGrupo1\obj\Debug\ProyectoGrupo1.MantenedorUnidadTransporte.resources
+C:\Users\STEVEN\source\repos\PruebaGit\Grupo1-9055-Proyecto\ProyectoGrupo1\bin\Debug\ProyectoGrupo1.exe.config
+C:\Users\STEVEN\source\repos\PruebaGit\Grupo1-9055-Proyecto\ProyectoGrupo1\bin\Debug\ProyectoGrupo1.exe
+C:\Users\STEVEN\source\repos\PruebaGit\Grupo1-9055-Proyecto\ProyectoGrupo1\bin\Debug\ProyectoGrupo1.pdb
+C:\Users\STEVEN\source\repos\PruebaGit\Grupo1-9055-Proyecto\ProyectoGrupo1\bin\Debug\CapaEntidad.dll
+C:\Users\STEVEN\source\repos\PruebaGit\Grupo1-9055-Proyecto\ProyectoGrupo1\bin\Debug\CapaLogica.dll
+C:\Users\STEVEN\source\repos\PruebaGit\Grupo1-9055-Proyecto\ProyectoGrupo1\bin\Debug\CapaDatos.dll
+C:\Users\STEVEN\source\repos\PruebaGit\Grupo1-9055-Proyecto\ProyectoGrupo1\bin\Debug\CapaEntidad.pdb
+C:\Users\STEVEN\source\repos\PruebaGit\Grupo1-9055-Proyecto\ProyectoGrupo1\bin\Debug\CapaLogica.pdb
+C:\Users\STEVEN\source\repos\PruebaGit\Grupo1-9055-Proyecto\ProyectoGrupo1\bin\Debug\CapaDatos.pdb
+C:\Users\STEVEN\source\repos\PruebaGit\Grupo1-9055-Proyecto\ProyectoGrupo1\obj\Debug\ProyectoGrupo1.csproj.AssemblyReference.cache
+C:\Users\STEVEN\source\repos\PruebaGit\Grupo1-9055-Proyecto\ProyectoGrupo1\obj\Debug\ProyectoGrupo1.MantenedorEquipo.resources
+C:\Users\STEVEN\source\repos\PruebaGit\Grupo1-9055-Proyecto\ProyectoGrupo1\obj\Debug\ProyectoGrupo1.MantenedorProveedor.resources
+C:\Users\STEVEN\source\repos\PruebaGit\Grupo1-9055-Proyecto\ProyectoGrupo1\obj\Debug\ProyectoGrupo1.MantenedorUnidadTransporte.resources
+C:\Users\STEVEN\source\repos\PruebaGit\Grupo1-9055-Proyecto\ProyectoGrupo1\obj\Debug\ProyectoGrupo1.Properties.Resources.resources
+C:\Users\STEVEN\source\repos\PruebaGit\Grupo1-9055-Proyecto\ProyectoGrupo1\obj\Debug\ProyectoGrupo1.csproj.GenerateResource.cache
+C:\Users\STEVEN\source\repos\PruebaGit\Grupo1-9055-Proyecto\ProyectoGrupo1\obj\Debug\ProyectoGrupo1.csproj.CoreCompileInputs.cache
+C:\Users\STEVEN\source\repos\PruebaGit\Grupo1-9055-Proyecto\ProyectoGrupo1\obj\Debug\Proyecto.49C10F85.Up2Date
+C:\Users\STEVEN\source\repos\PruebaGit\Grupo1-9055-Proyecto\ProyectoGrupo1\obj\Debug\ProyectoGrupo1.exe
+C:\Users\STEVEN\source\repos\PruebaGit\Grupo1-9055-Proyecto\ProyectoGrupo1\obj\Debug\ProyectoGrupo1.pdb
+C:\UNIVERSIDAD\MOANSO\PROYECTO - PROMAS\Grupo1-9055-Proyecto\ProyectoGrupo1\obj\Debug\ProyectoGrupo1.csproj.AssemblyReference.cache
+C:\UNIVERSIDAD\MOANSO\PROYECTO - PROMAS\Grupo1-9055-Proyecto\ProyectoGrupo1\obj\Debug\ProyectoGrupo1.Mantenimiento.resources
+C:\UNIVERSIDAD\MOANSO\PROYECTO - PROMAS\Grupo1-9055-Proyecto\ProyectoGrupo1\obj\Debug\ProyectoGrupo1.Properties.Resources.resources
+C:\UNIVERSIDAD\MOANSO\PROYECTO - PROMAS\Grupo1-9055-Proyecto\ProyectoGrupo1\obj\Debug\ProyectoGrupo1.csproj.GenerateResource.cache
+C:\UNIVERSIDAD\MOANSO\PROYECTO - PROMAS\Grupo1-9055-Proyecto\ProyectoGrupo1\obj\Debug\ProyectoGrupo1.csproj.CoreCompileInputs.cache
+C:\UNIVERSIDAD\MOANSO\PROYECTO - PROMAS\Grupo1-9055-Proyecto\ProyectoGrupo1\bin\Debug\ProyectoGrupo1.exe.config
+C:\UNIVERSIDAD\MOANSO\PROYECTO - PROMAS\Grupo1-9055-Proyecto\ProyectoGrupo1\bin\Debug\ProyectoGrupo1.exe
+C:\UNIVERSIDAD\MOANSO\PROYECTO - PROMAS\Grupo1-9055-Proyecto\ProyectoGrupo1\bin\Debug\ProyectoGrupo1.pdb
+C:\UNIVERSIDAD\MOANSO\PROYECTO - PROMAS\Grupo1-9055-Proyecto\ProyectoGrupo1\bin\Debug\CapaEntidad.dll
+C:\UNIVERSIDAD\MOANSO\PROYECTO - PROMAS\Grupo1-9055-Proyecto\ProyectoGrupo1\bin\Debug\CapaLogica.dll
+C:\UNIVERSIDAD\MOANSO\PROYECTO - PROMAS\Grupo1-9055-Proyecto\ProyectoGrupo1\bin\Debug\CapaDatos.dll
+C:\UNIVERSIDAD\MOANSO\PROYECTO - PROMAS\Grupo1-9055-Proyecto\ProyectoGrupo1\bin\Debug\CapaEntidad.pdb
+C:\UNIVERSIDAD\MOANSO\PROYECTO - PROMAS\Grupo1-9055-Proyecto\ProyectoGrupo1\bin\Debug\CapaLogica.pdb
+C:\UNIVERSIDAD\MOANSO\PROYECTO - PROMAS\Grupo1-9055-Proyecto\ProyectoGrupo1\bin\Debug\CapaDatos.pdb
+C:\UNIVERSIDAD\MOANSO\PROYECTO - PROMAS\Grupo1-9055-Proyecto\ProyectoGrupo1\obj\Debug\Proyecto.49C10F85.Up2Date
+C:\UNIVERSIDAD\MOANSO\PROYECTO - PROMAS\Grupo1-9055-Proyecto\ProyectoGrupo1\obj\Debug\ProyectoGrupo1.exe
+C:\UNIVERSIDAD\MOANSO\PROYECTO - PROMAS\Grupo1-9055-Proyecto\ProyectoGrupo1\obj\Debug\ProyectoGrupo1.pdb
+C:\Users\STEVEN\Downloads\Grupo1-9055-Proyecto\Grupo1-9055-Proyecto\ProyectoGrupo1\bin\Debug\ProyectoGrupo1.exe.config
+C:\Users\STEVEN\Downloads\Grupo1-9055-Proyecto\Grupo1-9055-Proyecto\ProyectoGrupo1\bin\Debug\ProyectoGrupo1.exe
+C:\Users\STEVEN\Downloads\Grupo1-9055-Proyecto\Grupo1-9055-Proyecto\ProyectoGrupo1\bin\Debug\ProyectoGrupo1.pdb
+C:\Users\STEVEN\Downloads\Grupo1-9055-Proyecto\Grupo1-9055-Proyecto\ProyectoGrupo1\bin\Debug\CapaEntidad.dll
+C:\Users\STEVEN\Downloads\Grupo1-9055-Proyecto\Grupo1-9055-Proyecto\ProyectoGrupo1\bin\Debug\CapaLogica.dll
+C:\Users\STEVEN\Downloads\Grupo1-9055-Proyecto\Grupo1-9055-Proyecto\ProyectoGrupo1\bin\Debug\CapaDatos.dll
+C:\Users\STEVEN\Downloads\Grupo1-9055-Proyecto\Grupo1-9055-Proyecto\ProyectoGrupo1\bin\Debug\CapaEntidad.pdb
+C:\Users\STEVEN\Downloads\Grupo1-9055-Proyecto\Grupo1-9055-Proyecto\ProyectoGrupo1\bin\Debug\CapaLogica.pdb
+C:\Users\STEVEN\Downloads\Grupo1-9055-Proyecto\Grupo1-9055-Proyecto\ProyectoGrupo1\bin\Debug\CapaDatos.pdb
+C:\Users\STEVEN\Downloads\Grupo1-9055-Proyecto\Grupo1-9055-Proyecto\ProyectoGrupo1\obj\Debug\ProyectoGrupo1.csproj.AssemblyReference.cache
+C:\Users\STEVEN\Downloads\Grupo1-9055-Proyecto\Grupo1-9055-Proyecto\ProyectoGrupo1\obj\Debug\ProyectoGrupo1.MantenedorOperario.resources
+C:\Users\STEVEN\Downloads\Grupo1-9055-Proyecto\Grupo1-9055-Proyecto\ProyectoGrupo1\obj\Debug\ProyectoGrupo1.Mantenimiento.resources
+C:\Users\STEVEN\Downloads\Grupo1-9055-Proyecto\Grupo1-9055-Proyecto\ProyectoGrupo1\obj\Debug\ProyectoGrupo1.Properties.Resources.resources
+C:\Users\STEVEN\Downloads\Grupo1-9055-Proyecto\Grupo1-9055-Proyecto\ProyectoGrupo1\obj\Debug\ProyectoGrupo1.csproj.GenerateResource.cache
+C:\Users\STEVEN\Downloads\Grupo1-9055-Proyecto\Grupo1-9055-Proyecto\ProyectoGrupo1\obj\Debug\ProyectoGrupo1.csproj.CoreCompileInputs.cache
+C:\Users\STEVEN\Downloads\Grupo1-9055-Proyecto\Grupo1-9055-Proyecto\ProyectoGrupo1\obj\Debug\Proyecto.49C10F85.Up2Date
+C:\Users\STEVEN\Downloads\Grupo1-9055-Proyecto\Grupo1-9055-Proyecto\ProyectoGrupo1\obj\Debug\ProyectoGrupo1.exe
+C:\Users\STEVEN\Downloads\Grupo1-9055-Proyecto\Grupo1-9055-Proyecto\ProyectoGrupo1\obj\Debug\ProyectoGrupo1.pdb
+C:\Users\STEVEN\Downloads\Grupo1-9055-Proyecto\Grupo1-9055-Proyecto\ProyectoGrupo1\obj\Debug\ProyectoGrupo1.MantenedorActivo.resources
+C:\Users\Jordan\Downloads\Grupo1-9055-Proyecto\Grupo1-9055-Proyecto\Grupo1-9055-Proyecto\ProyectoGrupo1\obj\Debug\ProyectoGrupo1.csproj.AssemblyReference.cache
+C:\Users\Jordan\Downloads\Grupo1-9055-Proyecto\Grupo1-9055-Proyecto\Grupo1-9055-Proyecto\ProyectoGrupo1\obj\Debug\ProyectoGrupo1.ConsultaMantenimiento.resources
+C:\Users\Jordan\Downloads\Grupo1-9055-Proyecto\Grupo1-9055-Proyecto\Grupo1-9055-Proyecto\ProyectoGrupo1\obj\Debug\ProyectoGrupo1.MantenedorActivo.resources
+C:\Users\Jordan\Downloads\Grupo1-9055-Proyecto\Grupo1-9055-Proyecto\Grupo1-9055-Proyecto\ProyectoGrupo1\obj\Debug\ProyectoGrupo1.MantenedorMaterial.resources
+C:\Users\Jordan\Downloads\Grupo1-9055-Proyecto\Grupo1-9055-Proyecto\Grupo1-9055-Proyecto\ProyectoGrupo1\obj\Debug\ProyectoGrupo1.MantenedorOperario.resources
+C:\Users\Jordan\Downloads\Grupo1-9055-Proyecto\Grupo1-9055-Proyecto\Grupo1-9055-Proyecto\ProyectoGrupo1\obj\Debug\ProyectoGrupo1.Mantenimiento.resources
+C:\Users\Jordan\Downloads\Grupo1-9055-Proyecto\Grupo1-9055-Proyecto\Grupo1-9055-Proyecto\ProyectoGrupo1\obj\Debug\ProyectoGrupo1.MenuLogistica.resources
+C:\Users\Jordan\Downloads\Grupo1-9055-Proyecto\Grupo1-9055-Proyecto\Grupo1-9055-Proyecto\ProyectoGrupo1\obj\Debug\ProyectoGrupo1.MenuOperario.resources
+C:\Users\Jordan\Downloads\Grupo1-9055-Proyecto\Grupo1-9055-Proyecto\Grupo1-9055-Proyecto\ProyectoGrupo1\obj\Debug\ProyectoGrupo1.MenuPROMAS.resources
+C:\Users\Jordan\Downloads\Grupo1-9055-Proyecto\Grupo1-9055-Proyecto\Grupo1-9055-Proyecto\ProyectoGrupo1\obj\Debug\ProyectoGrupo1.MenuSupervisor.resources
+C:\Users\Jordan\Downloads\Grupo1-9055-Proyecto\Grupo1-9055-Proyecto\Grupo1-9055-Proyecto\ProyectoGrupo1\obj\Debug\ProyectoGrupo1.NotaRequerimiento.resources
+C:\Users\Jordan\Downloads\Grupo1-9055-Proyecto\Grupo1-9055-Proyecto\Grupo1-9055-Proyecto\ProyectoGrupo1\obj\Debug\ProyectoGrupo1.RequerimientoMateriales.resources
+C:\Users\Jordan\Downloads\Grupo1-9055-Proyecto\Grupo1-9055-Proyecto\Grupo1-9055-Proyecto\ProyectoGrupo1\obj\Debug\ProyectoGrupo1.Properties.Resources.resources
+C:\Users\Jordan\Downloads\Grupo1-9055-Proyecto\Grupo1-9055-Proyecto\Grupo1-9055-Proyecto\ProyectoGrupo1\obj\Debug\ProyectoGrupo1.csproj.GenerateResource.cache
+C:\Users\Jordan\Downloads\Grupo1-9055-Proyecto\Grupo1-9055-Proyecto\Grupo1-9055-Proyecto\ProyectoGrupo1\obj\Debug\ProyectoGrupo1.csproj.CoreCompileInputs.cache
+C:\Users\Jordan\Downloads\Grupo1-9055-Proyecto\Grupo1-9055-Proyecto\Grupo1-9055-Proyecto\ProyectoGrupo1\bin\Debug\ProyectoGrupo1.exe.config
+C:\Users\Jordan\Downloads\Grupo1-9055-Proyecto\Grupo1-9055-Proyecto\Grupo1-9055-Proyecto\ProyectoGrupo1\bin\Debug\ProyectoGrupo1.exe
+C:\Users\Jordan\Downloads\Grupo1-9055-Proyecto\Grupo1-9055-Proyecto\Grupo1-9055-Proyecto\ProyectoGrupo1\bin\Debug\ProyectoGrupo1.pdb
+C:\Users\Jordan\Downloads\Grupo1-9055-Proyecto\Grupo1-9055-Proyecto\Grupo1-9055-Proyecto\ProyectoGrupo1\bin\Debug\CapaEntidad.dll
+C:\Users\Jordan\Downloads\Grupo1-9055-Proyecto\Grupo1-9055-Proyecto\Grupo1-9055-Proyecto\ProyectoGrupo1\bin\Debug\CapaLogica.dll
+C:\Users\Jordan\Downloads\Grupo1-9055-Proyecto\Grupo1-9055-Proyecto\Grupo1-9055-Proyecto\ProyectoGrupo1\bin\Debug\CapaDatos.dll
+C:\Users\Jordan\Downloads\Grupo1-9055-Proyecto\Grupo1-9055-Proyecto\Grupo1-9055-Proyecto\ProyectoGrupo1\bin\Debug\CapaEntidad.pdb
+C:\Users\Jordan\Downloads\Grupo1-9055-Proyecto\Grupo1-9055-Proyecto\Grupo1-9055-Proyecto\ProyectoGrupo1\bin\Debug\CapaLogica.pdb
+C:\Users\Jordan\Downloads\Grupo1-9055-Proyecto\Grupo1-9055-Proyecto\Grupo1-9055-Proyecto\ProyectoGrupo1\bin\Debug\CapaDatos.pdb
+C:\Users\Jordan\Downloads\Grupo1-9055-Proyecto\Grupo1-9055-Proyecto\Grupo1-9055-Proyecto\ProyectoGrupo1\obj\Debug\Proyecto.49C10F85.Up2Date
+C:\Users\Jordan\Downloads\Grupo1-9055-Proyecto\Grupo1-9055-Proyecto\Grupo1-9055-Proyecto\ProyectoGrupo1\obj\Debug\ProyectoGrupo1.exe
+C:\Users\Jordan\Downloads\Grupo1-9055-Proyecto\Grupo1-9055-Proyecto\Grupo1-9055-Proyecto\ProyectoGrupo1\obj\Debug\ProyectoGrupo1.pdb
+D:\EF MOANSON\Grupo1-9055-Proyecto\ProyectoGrupo1\bin\Debug\ProyectoGrupo1.exe.config
+D:\EF MOANSON\Grupo1-9055-Proyecto\ProyectoGrupo1\bin\Debug\ProyectoGrupo1.exe
+D:\EF MOANSON\Grupo1-9055-Proyecto\ProyectoGrupo1\bin\Debug\ProyectoGrupo1.pdb
+D:\EF MOANSON\Grupo1-9055-Proyecto\ProyectoGrupo1\bin\Debug\CapaEntidad.dll
+D:\EF MOANSON\Grupo1-9055-Proyecto\ProyectoGrupo1\bin\Debug\CapaLogica.dll
+D:\EF MOANSON\Grupo1-9055-Proyecto\ProyectoGrupo1\bin\Debug\CapaDatos.dll
+D:\EF MOANSON\Grupo1-9055-Proyecto\ProyectoGrupo1\bin\Debug\CapaEntidad.pdb
+D:\EF MOANSON\Grupo1-9055-Proyecto\ProyectoGrupo1\bin\Debug\CapaLogica.pdb
+D:\EF MOANSON\Grupo1-9055-Proyecto\ProyectoGrupo1\bin\Debug\CapaDatos.pdb
+D:\EF MOANSON\Grupo1-9055-Proyecto\ProyectoGrupo1\obj\Debug\ProyectoGrupo1.csproj.AssemblyReference.cache
+D:\EF MOANSON\Grupo1-9055-Proyecto\ProyectoGrupo1\obj\Debug\ProyectoGrupo1.ConsultaMantenimiento.resources
+D:\EF MOANSON\Grupo1-9055-Proyecto\ProyectoGrupo1\obj\Debug\ProyectoGrupo1.MantenedorActivo.resources
+D:\EF MOANSON\Grupo1-9055-Proyecto\ProyectoGrupo1\obj\Debug\ProyectoGrupo1.MantenedorMaterial.resources
+D:\EF MOANSON\Grupo1-9055-Proyecto\ProyectoGrupo1\obj\Debug\ProyectoGrupo1.MantenedorOperario.resources
+D:\EF MOANSON\Grupo1-9055-Proyecto\ProyectoGrupo1\obj\Debug\ProyectoGrupo1.Mantenimiento.resources
+D:\EF MOANSON\Grupo1-9055-Proyecto\ProyectoGrupo1\obj\Debug\ProyectoGrupo1.MenuLogistica.resources
+D:\EF MOANSON\Grupo1-9055-Proyecto\ProyectoGrupo1\obj\Debug\ProyectoGrupo1.MenuOperario.resources
+D:\EF MOANSON\Grupo1-9055-Proyecto\ProyectoGrupo1\obj\Debug\ProyectoGrupo1.MenuPROMAS.resources
+D:\EF MOANSON\Grupo1-9055-Proyecto\ProyectoGrupo1\obj\Debug\ProyectoGrupo1.MenuSupervisor.resources
+D:\EF MOANSON\Grupo1-9055-Proyecto\ProyectoGrupo1\obj\Debug\ProyectoGrupo1.NotaRequerimiento.resources
+D:\EF MOANSON\Grupo1-9055-Proyecto\ProyectoGrupo1\obj\Debug\ProyectoGrupo1.RequerimientoMateriales.resources
+D:\EF MOANSON\Grupo1-9055-Proyecto\ProyectoGrupo1\obj\Debug\ProyectoGrupo1.Properties.Resources.resources
+D:\EF MOANSON\Grupo1-9055-Proyecto\ProyectoGrupo1\obj\Debug\ProyectoGrupo1.csproj.GenerateResource.cache
+D:\EF MOANSON\Grupo1-9055-Proyecto\ProyectoGrupo1\obj\Debug\ProyectoGrupo1.csproj.CoreCompileInputs.cache
+D:\EF MOANSON\Grupo1-9055-Proyecto\ProyectoGrupo1\obj\Debug\Proyecto.49C10F85.Up2Date
+D:\EF MOANSON\Grupo1-9055-Proyecto\ProyectoGrupo1\obj\Debug\ProyectoGrupo1.exe
+D:\EF MOANSON\Grupo1-9055-Proyecto\ProyectoGrupo1\obj\Debug\ProyectoGrupo1.pdb
+C:\Users\Jordan\Downloads\EF MOANSON (2)\EF MOANSON\Grupo1-9055-Proyecto\ProyectoGrupo1\bin\Debug\ProyectoGrupo1.exe.config
+C:\Users\Jordan\Downloads\EF MOANSON (2)\EF MOANSON\Grupo1-9055-Proyecto\ProyectoGrupo1\bin\Debug\ProyectoGrupo1.exe
+C:\Users\Jordan\Downloads\EF MOANSON (2)\EF MOANSON\Grupo1-9055-Proyecto\ProyectoGrupo1\bin\Debug\ProyectoGrupo1.pdb
+C:\Users\Jordan\Downloads\EF MOANSON (2)\EF MOANSON\Grupo1-9055-Proyecto\ProyectoGrupo1\bin\Debug\CapaEntidad.dll
+C:\Users\Jordan\Downloads\EF MOANSON (2)\EF MOANSON\Grupo1-9055-Proyecto\ProyectoGrupo1\bin\Debug\CapaLogica.dll
+C:\Users\Jordan\Downloads\EF MOANSON (2)\EF MOANSON\Grupo1-9055-Proyecto\ProyectoGrupo1\bin\Debug\CapaDatos.dll
+C:\Users\Jordan\Downloads\EF MOANSON (2)\EF MOANSON\Grupo1-9055-Proyecto\ProyectoGrupo1\bin\Debug\CapaEntidad.pdb
+C:\Users\Jordan\Downloads\EF MOANSON (2)\EF MOANSON\Grupo1-9055-Proyecto\ProyectoGrupo1\bin\Debug\CapaLogica.pdb
+C:\Users\Jordan\Downloads\EF MOANSON (2)\EF MOANSON\Grupo1-9055-Proyecto\ProyectoGrupo1\bin\Debug\CapaDatos.pdb
+C:\Users\Jordan\Downloads\EF MOANSON (2)\EF MOANSON\Grupo1-9055-Proyecto\ProyectoGrupo1\obj\Debug\ProyectoGrupo1.csproj.AssemblyReference.cache
+C:\Users\Jordan\Downloads\EF MOANSON (2)\EF MOANSON\Grupo1-9055-Proyecto\ProyectoGrupo1\obj\Debug\ProyectoGrupo1.ConsultaMantenimiento.resources
+C:\Users\Jordan\Downloads\EF MOANSON (2)\EF MOANSON\Grupo1-9055-Proyecto\ProyectoGrupo1\obj\Debug\ProyectoGrupo1.MantenedorActivo.resources
+C:\Users\Jordan\Downloads\EF MOANSON (2)\EF MOANSON\Grupo1-9055-Proyecto\ProyectoGrupo1\obj\Debug\ProyectoGrupo1.MantenedorMaterial.resources
+C:\Users\Jordan\Downloads\EF MOANSON (2)\EF MOANSON\Grupo1-9055-Proyecto\ProyectoGrupo1\obj\Debug\ProyectoGrupo1.MantenedorOperario.resources
+C:\Users\Jordan\Downloads\EF MOANSON (2)\EF MOANSON\Grupo1-9055-Proyecto\ProyectoGrupo1\obj\Debug\ProyectoGrupo1.Mantenimiento.resources
+C:\Users\Jordan\Downloads\EF MOANSON (2)\EF MOANSON\Grupo1-9055-Proyecto\ProyectoGrupo1\obj\Debug\ProyectoGrupo1.MenuLogistica.resources
+C:\Users\Jordan\Downloads\EF MOANSON (2)\EF MOANSON\Grupo1-9055-Proyecto\ProyectoGrupo1\obj\Debug\ProyectoGrupo1.MenuOperario.resources
+C:\Users\Jordan\Downloads\EF MOANSON (2)\EF MOANSON\Grupo1-9055-Proyecto\ProyectoGrupo1\obj\Debug\ProyectoGrupo1.MenuPROMAS.resources
+C:\Users\Jordan\Downloads\EF MOANSON (2)\EF MOANSON\Grupo1-9055-Proyecto\ProyectoGrupo1\obj\Debug\ProyectoGrupo1.MenuSupervisor.resources
+C:\Users\Jordan\Downloads\EF MOANSON (2)\EF MOANSON\Grupo1-9055-Proyecto\ProyectoGrupo1\obj\Debug\ProyectoGrupo1.RequerimientoMateriales.resources
+C:\Users\Jordan\Downloads\EF MOANSON (2)\EF MOANSON\Grupo1-9055-Proyecto\ProyectoGrupo1\obj\Debug\ProyectoGrupo1.Properties.Resources.resources
+C:\Users\Jordan\Downloads\EF MOANSON (2)\EF MOANSON\Grupo1-9055-Proyecto\ProyectoGrupo1\obj\Debug\ProyectoGrupo1.csproj.GenerateResource.cache
+C:\Users\Jordan\Downloads\EF MOANSON (2)\EF MOANSON\Grupo1-9055-Proyecto\ProyectoGrupo1\obj\Debug\ProyectoGrupo1.csproj.CoreCompileInputs.cache
+C:\Users\Jordan\Downloads\EF MOANSON (2)\EF MOANSON\Grupo1-9055-Proyecto\ProyectoGrupo1\obj\Debug\Proyecto.49C10F85.Up2Date
+C:\Users\Jordan\Downloads\EF MOANSON (2)\EF MOANSON\Grupo1-9055-Proyecto\ProyectoGrupo1\obj\Debug\ProyectoGrupo1.exe
+C:\Users\Jordan\Downloads\EF MOANSON (2)\EF MOANSON\Grupo1-9055-Proyecto\ProyectoGrupo1\obj\Debug\ProyectoGrupo1.pdb

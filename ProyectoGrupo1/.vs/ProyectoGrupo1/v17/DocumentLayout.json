@@ -1,7 +1,87 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\01_UNI_SISTEMAS\\06_31_Moanso\\semana14\\Proyecto_repo\\Grupo1-9055-Proyecto\\ProyectoGrupo1\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\Jordan\\Downloads\\EF MOANSON (2)\\EF MOANSON\\Grupo1-9055-Proyecto\\ProyectoGrupo1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A8F711EE-9C45-46BD-B158-EDFA9D3EF3FD}|ProyectoGrupo1.csproj|c:\\users\\jordan\\downloads\\ef moanson (2)\\ef moanson\\grupo1-9055-proyecto\\proyectogrupo1\\menupromas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A8F711EE-9C45-46BD-B158-EDFA9D3EF3FD}|ProyectoGrupo1.csproj|solutionrelative:menupromas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8F711EE-9C45-46BD-B158-EDFA9D3EF3FD}|ProyectoGrupo1.csproj|c:\\users\\jordan\\downloads\\ef moanson (2)\\ef moanson\\grupo1-9055-proyecto\\proyectogrupo1\\mantenedoroperario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8F711EE-9C45-46BD-B158-EDFA9D3EF3FD}|ProyectoGrupo1.csproj|solutionrelative:mantenedoroperario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8F711EE-9C45-46BD-B158-EDFA9D3EF3FD}|ProyectoGrupo1.csproj|c:\\users\\jordan\\downloads\\ef moanson (2)\\ef moanson\\grupo1-9055-proyecto\\proyectogrupo1\\mantenedoroperario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A8F711EE-9C45-46BD-B158-EDFA9D3EF3FD}|ProyectoGrupo1.csproj|solutionrelative:mantenedoroperario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8F711EE-9C45-46BD-B158-EDFA9D3EF3FD}|ProyectoGrupo1.csproj|c:\\users\\jordan\\downloads\\ef moanson (2)\\ef moanson\\grupo1-9055-proyecto\\proyectogrupo1\\requerimientomateriales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8F711EE-9C45-46BD-B158-EDFA9D3EF3FD}|ProyectoGrupo1.csproj|solutionrelative:requerimientomateriales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8F711EE-9C45-46BD-B158-EDFA9D3EF3FD}|ProyectoGrupo1.csproj|c:\\users\\jordan\\downloads\\ef moanson (2)\\ef moanson\\grupo1-9055-proyecto\\proyectogrupo1\\requerimientomateriales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A8F711EE-9C45-46BD-B158-EDFA9D3EF3FD}|ProyectoGrupo1.csproj|solutionrelative:requerimientomateriales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8F711EE-9C45-46BD-B158-EDFA9D3EF3FD}|ProyectoGrupo1.csproj|c:\\users\\jordan\\downloads\\ef moanson (2)\\ef moanson\\grupo1-9055-proyecto\\proyectogrupo1\\mantenedoractivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8F711EE-9C45-46BD-B158-EDFA9D3EF3FD}|ProyectoGrupo1.csproj|solutionrelative:mantenedoractivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8F711EE-9C45-46BD-B158-EDFA9D3EF3FD}|ProyectoGrupo1.csproj|c:\\users\\jordan\\downloads\\ef moanson (2)\\ef moanson\\grupo1-9055-proyecto\\proyectogrupo1\\mantenedoractivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A8F711EE-9C45-46BD-B158-EDFA9D3EF3FD}|ProyectoGrupo1.csproj|solutionrelative:mantenedoractivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8F711EE-9C45-46BD-B158-EDFA9D3EF3FD}|ProyectoGrupo1.csproj|c:\\users\\jordan\\downloads\\ef moanson (2)\\ef moanson\\grupo1-9055-proyecto\\proyectogrupo1\\mantenedormaterial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8F711EE-9C45-46BD-B158-EDFA9D3EF3FD}|ProyectoGrupo1.csproj|solutionrelative:mantenedormaterial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8F711EE-9C45-46BD-B158-EDFA9D3EF3FD}|ProyectoGrupo1.csproj|c:\\users\\jordan\\downloads\\ef moanson (2)\\ef moanson\\grupo1-9055-proyecto\\proyectogrupo1\\mantenedormaterial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A8F711EE-9C45-46BD-B158-EDFA9D3EF3FD}|ProyectoGrupo1.csproj|solutionrelative:mantenedormaterial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8F711EE-9C45-46BD-B158-EDFA9D3EF3FD}|ProyectoGrupo1.csproj|c:\\users\\jordan\\downloads\\ef moanson (2)\\ef moanson\\grupo1-9055-proyecto\\proyectogrupo1\\menusupervisor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8F711EE-9C45-46BD-B158-EDFA9D3EF3FD}|ProyectoGrupo1.csproj|solutionrelative:menusupervisor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8F711EE-9C45-46BD-B158-EDFA9D3EF3FD}|ProyectoGrupo1.csproj|c:\\users\\jordan\\downloads\\ef moanson (2)\\ef moanson\\grupo1-9055-proyecto\\proyectogrupo1\\menusupervisor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A8F711EE-9C45-46BD-B158-EDFA9D3EF3FD}|ProyectoGrupo1.csproj|solutionrelative:menusupervisor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{725C8D8C-BE9F-45B6-A262-F624415B7B3A}|..\\CapaDatos\\CapaDatos.csproj|c:\\users\\jordan\\downloads\\ef moanson (2)\\ef moanson\\grupo1-9055-proyecto\\capadatos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8F711EE-9C45-46BD-B158-EDFA9D3EF3FD}|ProyectoGrupo1.csproj|c:\\users\\jordan\\downloads\\ef moanson (2)\\ef moanson\\grupo1-9055-proyecto\\proyectogrupo1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8F711EE-9C45-46BD-B158-EDFA9D3EF3FD}|ProyectoGrupo1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8F711EE-9C45-46BD-B158-EDFA9D3EF3FD}|ProyectoGrupo1.csproj|c:\\users\\jordan\\downloads\\ef moanson (2)\\ef moanson\\grupo1-9055-proyecto\\proyectogrupo1\\menuoperario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A8F711EE-9C45-46BD-B158-EDFA9D3EF3FD}|ProyectoGrupo1.csproj|solutionrelative:menuoperario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8F711EE-9C45-46BD-B158-EDFA9D3EF3FD}|ProyectoGrupo1.csproj|c:\\users\\jordan\\downloads\\ef moanson (2)\\ef moanson\\grupo1-9055-proyecto\\proyectogrupo1\\menulogistica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A8F711EE-9C45-46BD-B158-EDFA9D3EF3FD}|ProyectoGrupo1.csproj|solutionrelative:menulogistica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8F711EE-9C45-46BD-B158-EDFA9D3EF3FD}|ProyectoGrupo1.csproj|c:\\users\\jordan\\downloads\\ef moanson (2)\\ef moanson\\grupo1-9055-proyecto\\proyectogrupo1\\mantenimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8F711EE-9C45-46BD-B158-EDFA9D3EF3FD}|ProyectoGrupo1.csproj|solutionrelative:mantenimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8F711EE-9C45-46BD-B158-EDFA9D3EF3FD}|ProyectoGrupo1.csproj|c:\\users\\jordan\\downloads\\ef moanson (2)\\ef moanson\\grupo1-9055-proyecto\\proyectogrupo1\\mantenimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A8F711EE-9C45-46BD-B158-EDFA9D3EF3FD}|ProyectoGrupo1.csproj|solutionrelative:mantenimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8F711EE-9C45-46BD-B158-EDFA9D3EF3FD}|ProyectoGrupo1.csproj|c:\\users\\jordan\\downloads\\ef moanson (2)\\ef moanson\\grupo1-9055-proyecto\\proyectogrupo1\\consultamantenimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A8F711EE-9C45-46BD-B158-EDFA9D3EF3FD}|ProyectoGrupo1.csproj|solutionrelative:consultamantenimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8F711EE-9C45-46BD-B158-EDFA9D3EF3FD}|ProyectoGrupo1.csproj|c:\\users\\jordan\\downloads\\ef moanson (2)\\ef moanson\\grupo1-9055-proyecto\\proyectogrupo1\\menulogistica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8F711EE-9C45-46BD-B158-EDFA9D3EF3FD}|ProyectoGrupo1.csproj|solutionrelative:menulogistica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8F711EE-9C45-46BD-B158-EDFA9D3EF3FD}|ProyectoGrupo1.csproj|c:\\users\\jordan\\downloads\\ef moanson (2)\\ef moanson\\grupo1-9055-proyecto\\proyectogrupo1\\menuoperario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8F711EE-9C45-46BD-B158-EDFA9D3EF3FD}|ProyectoGrupo1.csproj|solutionrelative:menuoperario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,23 +89,261 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 5,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RequerimientoMateriales.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Jordan\\Downloads\\EF MOANSON (2)\\EF MOANSON\\Grupo1-9055-Proyecto\\ProyectoGrupo1\\RequerimientoMateriales.cs",
+              "RelativeDocumentMoniker": "RequerimientoMateriales.cs",
+              "ToolTip": "C:\\Users\\Jordan\\Downloads\\EF MOANSON (2)\\EF MOANSON\\Grupo1-9055-Proyecto\\ProyectoGrupo1\\RequerimientoMateriales.cs [Dise\u00F1o]",
+              "RelativeToolTip": "RequerimientoMateriales.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T02:17:35.365Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RequerimientoMateriales.cs",
+              "DocumentMoniker": "C:\\Users\\Jordan\\Downloads\\EF MOANSON (2)\\EF MOANSON\\Grupo1-9055-Proyecto\\ProyectoGrupo1\\RequerimientoMateriales.cs",
+              "RelativeDocumentMoniker": "RequerimientoMateriales.cs",
+              "ToolTip": "C:\\Users\\Jordan\\Downloads\\EF MOANSON (2)\\EF MOANSON\\Grupo1-9055-Proyecto\\ProyectoGrupo1\\RequerimientoMateriales.cs",
+              "RelativeToolTip": "RequerimientoMateriales.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAowCoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T03:04:32.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MantenedorOperario.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Jordan\\Downloads\\EF MOANSON (2)\\EF MOANSON\\Grupo1-9055-Proyecto\\ProyectoGrupo1\\MantenedorOperario.cs",
+              "RelativeDocumentMoniker": "MantenedorOperario.cs",
+              "ToolTip": "C:\\Users\\Jordan\\Downloads\\EF MOANSON (2)\\EF MOANSON\\Grupo1-9055-Proyecto\\ProyectoGrupo1\\MantenedorOperario.cs [Dise\u00F1o]",
+              "RelativeToolTip": "MantenedorOperario.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T02:53:48.31Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MantenedorOperario.cs",
+              "DocumentMoniker": "C:\\Users\\Jordan\\Downloads\\EF MOANSON (2)\\EF MOANSON\\Grupo1-9055-Proyecto\\ProyectoGrupo1\\MantenedorOperario.cs",
+              "RelativeDocumentMoniker": "MantenedorOperario.cs",
+              "ToolTip": "C:\\Users\\Jordan\\Downloads\\EF MOANSON (2)\\EF MOANSON\\Grupo1-9055-Proyecto\\ProyectoGrupo1\\MantenedorOperario.cs",
+              "RelativeToolTip": "MantenedorOperario.cs",
+              "ViewState": "AgIAAPUAAAAAAAAAAAAswAMBAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T03:04:09.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MenuPROMAS.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Jordan\\Downloads\\EF MOANSON (2)\\EF MOANSON\\Grupo1-9055-Proyecto\\ProyectoGrupo1\\MenuPROMAS.cs",
+              "RelativeDocumentMoniker": "MenuPROMAS.cs",
+              "ToolTip": "C:\\Users\\Jordan\\Downloads\\EF MOANSON (2)\\EF MOANSON\\Grupo1-9055-Proyecto\\ProyectoGrupo1\\MenuPROMAS.cs [Dise\u00F1o]",
+              "RelativeToolTip": "MenuPROMAS.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T03:02:31.709Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MantenedorActivo.cs",
+              "DocumentMoniker": "C:\\Users\\Jordan\\Downloads\\EF MOANSON (2)\\EF MOANSON\\Grupo1-9055-Proyecto\\ProyectoGrupo1\\MantenedorActivo.cs",
+              "RelativeDocumentMoniker": "MantenedorActivo.cs",
+              "ToolTip": "C:\\Users\\Jordan\\Downloads\\EF MOANSON (2)\\EF MOANSON\\Grupo1-9055-Proyecto\\ProyectoGrupo1\\MantenedorActivo.cs",
+              "RelativeToolTip": "MantenedorActivo.cs",
+              "ViewState": "AgIAAA4BAAAAAAAAAAAswBEBAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T03:04:15.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MantenedorActivo.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Jordan\\Downloads\\EF MOANSON (2)\\EF MOANSON\\Grupo1-9055-Proyecto\\ProyectoGrupo1\\MantenedorActivo.cs",
+              "RelativeDocumentMoniker": "MantenedorActivo.cs",
+              "ToolTip": "C:\\Users\\Jordan\\Downloads\\EF MOANSON (2)\\EF MOANSON\\Grupo1-9055-Proyecto\\ProyectoGrupo1\\MantenedorActivo.cs [Dise\u00F1o]",
+              "RelativeToolTip": "MantenedorActivo.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T02:58:18.726Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MantenedorMaterial.cs",
+              "DocumentMoniker": "C:\\Users\\Jordan\\Downloads\\EF MOANSON (2)\\EF MOANSON\\Grupo1-9055-Proyecto\\ProyectoGrupo1\\MantenedorMaterial.cs",
+              "RelativeDocumentMoniker": "MantenedorMaterial.cs",
+              "ToolTip": "C:\\Users\\Jordan\\Downloads\\EF MOANSON (2)\\EF MOANSON\\Grupo1-9055-Proyecto\\ProyectoGrupo1\\MantenedorMaterial.cs",
+              "RelativeToolTip": "MantenedorMaterial.cs",
+              "ViewState": "AgIAAMQAAAAAAAAAAAAswNEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T03:04:12.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MantenedorMaterial.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Jordan\\Downloads\\EF MOANSON (2)\\EF MOANSON\\Grupo1-9055-Proyecto\\ProyectoGrupo1\\MantenedorMaterial.cs",
+              "RelativeDocumentMoniker": "MantenedorMaterial.cs",
+              "ToolTip": "C:\\Users\\Jordan\\Downloads\\EF MOANSON (2)\\EF MOANSON\\Grupo1-9055-Proyecto\\ProyectoGrupo1\\MantenedorMaterial.cs [Dise\u00F1o]",
+              "RelativeToolTip": "MantenedorMaterial.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T03:00:13.019Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MenuSupervisor.cs",
+              "DocumentMoniker": "C:\\Users\\Jordan\\Downloads\\EF MOANSON (2)\\EF MOANSON\\Grupo1-9055-Proyecto\\ProyectoGrupo1\\MenuSupervisor.cs",
+              "RelativeDocumentMoniker": "MenuSupervisor.cs",
+              "ToolTip": "C:\\Users\\Jordan\\Downloads\\EF MOANSON (2)\\EF MOANSON\\Grupo1-9055-Proyecto\\ProyectoGrupo1\\MenuSupervisor.cs",
+              "RelativeToolTip": "MenuSupervisor.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAA7wCYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T03:03:39.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MenuSupervisor.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Jordan\\Downloads\\EF MOANSON (2)\\EF MOANSON\\Grupo1-9055-Proyecto\\ProyectoGrupo1\\MenuSupervisor.cs",
+              "RelativeDocumentMoniker": "MenuSupervisor.cs",
+              "ToolTip": "C:\\Users\\Jordan\\Downloads\\EF MOANSON (2)\\EF MOANSON\\Grupo1-9055-Proyecto\\ProyectoGrupo1\\MenuSupervisor.cs [Dise\u00F1o]",
+              "RelativeToolTip": "MenuSupervisor.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T03:02:32.452Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\Jordan\\Downloads\\EF MOANSON (2)\\EF MOANSON\\Grupo1-9055-Proyecto\\CapaDatos\\Conexion.cs",
+              "RelativeDocumentMoniker": "..\\CapaDatos\\Conexion.cs",
+              "ToolTip": "C:\\Users\\Jordan\\Downloads\\EF MOANSON (2)\\EF MOANSON\\Grupo1-9055-Proyecto\\CapaDatos\\Conexion.cs",
+              "RelativeToolTip": "..\\CapaDatos\\Conexion.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAgwBQAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T03:06:54.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MenuOperario.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Jordan\\Downloads\\EF MOANSON (2)\\EF MOANSON\\Grupo1-9055-Proyecto\\ProyectoGrupo1\\MenuOperario.cs",
+              "RelativeDocumentMoniker": "MenuOperario.cs",
+              "ToolTip": "C:\\Users\\Jordan\\Downloads\\EF MOANSON (2)\\EF MOANSON\\Grupo1-9055-Proyecto\\ProyectoGrupo1\\MenuOperario.cs [Dise\u00F1o]",
+              "RelativeToolTip": "MenuOperario.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T03:02:30.967Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MenuLogistica.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Jordan\\Downloads\\EF MOANSON (2)\\EF MOANSON\\Grupo1-9055-Proyecto\\ProyectoGrupo1\\MenuLogistica.cs",
+              "RelativeDocumentMoniker": "MenuLogistica.cs",
+              "ToolTip": "C:\\Users\\Jordan\\Downloads\\EF MOANSON (2)\\EF MOANSON\\Grupo1-9055-Proyecto\\ProyectoGrupo1\\MenuLogistica.cs [Dise\u00F1o]",
+              "RelativeToolTip": "MenuLogistica.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T03:02:29.184Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jordan\\Downloads\\EF MOANSON (2)\\EF MOANSON\\Grupo1-9055-Proyecto\\ProyectoGrupo1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Jordan\\Downloads\\EF MOANSON (2)\\EF MOANSON\\Grupo1-9055-Proyecto\\ProyectoGrupo1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T03:04:38.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Mantenimiento.cs",
+              "DocumentMoniker": "C:\\Users\\Jordan\\Downloads\\EF MOANSON (2)\\EF MOANSON\\Grupo1-9055-Proyecto\\ProyectoGrupo1\\Mantenimiento.cs",
+              "RelativeDocumentMoniker": "Mantenimiento.cs",
+              "ToolTip": "C:\\Users\\Jordan\\Downloads\\EF MOANSON (2)\\EF MOANSON\\Grupo1-9055-Proyecto\\ProyectoGrupo1\\Mantenimiento.cs",
+              "RelativeToolTip": "Mantenimiento.cs",
+              "ViewState": "AgIAAL0AAAAAAAAAAAAowMkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T03:03:56.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Mantenimiento.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Jordan\\Downloads\\EF MOANSON (2)\\EF MOANSON\\Grupo1-9055-Proyecto\\ProyectoGrupo1\\Mantenimiento.cs",
+              "RelativeDocumentMoniker": "Mantenimiento.cs",
+              "ToolTip": "C:\\Users\\Jordan\\Downloads\\EF MOANSON (2)\\EF MOANSON\\Grupo1-9055-Proyecto\\ProyectoGrupo1\\Mantenimiento.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Mantenimiento.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T02:48:55.924Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ConsultaMantenimiento.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Jordan\\Downloads\\EF MOANSON (2)\\EF MOANSON\\Grupo1-9055-Proyecto\\ProyectoGrupo1\\ConsultaMantenimiento.cs",
+              "RelativeDocumentMoniker": "ConsultaMantenimiento.cs",
+              "ToolTip": "C:\\Users\\Jordan\\Downloads\\EF MOANSON (2)\\EF MOANSON\\Grupo1-9055-Proyecto\\ProyectoGrupo1\\ConsultaMantenimiento.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ConsultaMantenimiento.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T02:56:42.413Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MenuLogistica.cs",
+              "DocumentMoniker": "C:\\Users\\Jordan\\Downloads\\EF MOANSON (2)\\EF MOANSON\\Grupo1-9055-Proyecto\\ProyectoGrupo1\\MenuLogistica.cs",
+              "RelativeDocumentMoniker": "MenuLogistica.cs",
+              "ToolTip": "C:\\Users\\Jordan\\Downloads\\EF MOANSON (2)\\EF MOANSON\\Grupo1-9055-Proyecto\\ProyectoGrupo1\\MenuLogistica.cs",
+              "RelativeToolTip": "MenuLogistica.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAkwBUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T03:03:48.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MenuOperario.cs",
+              "DocumentMoniker": "C:\\Users\\Jordan\\Downloads\\EF MOANSON (2)\\EF MOANSON\\Grupo1-9055-Proyecto\\ProyectoGrupo1\\MenuOperario.cs",
+              "RelativeDocumentMoniker": "MenuOperario.cs",
+              "ToolTip": "C:\\Users\\Jordan\\Downloads\\EF MOANSON (2)\\EF MOANSON\\Grupo1-9055-Proyecto\\ProyectoGrupo1\\MenuOperario.cs",
+              "RelativeToolTip": "MenuOperario.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowBsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T03:03:06.306Z",
+              "EditorCaption": ""
             }
           ]
         }

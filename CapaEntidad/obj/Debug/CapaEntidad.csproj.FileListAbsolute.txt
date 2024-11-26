@@ -10,3 +10,33 @@ C:\Users\STEVEN\source\repos\Grupo1-9055-Proyecto\CapaEntidad\obj\Debug\CapaEnti
 C:\Users\STEVEN\source\repos\Grupo1-9055-Proyecto\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
 C:\Users\STEVEN\source\repos\Grupo1-9055-Proyecto\CapaEntidad\obj\Debug\CapaEntidad.dll
 C:\Users\STEVEN\source\repos\Grupo1-9055-Proyecto\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\STEVEN\source\repos\PruebaGit\Grupo1-9055-Proyecto\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\STEVEN\source\repos\PruebaGit\Grupo1-9055-Proyecto\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\STEVEN\source\repos\PruebaGit\Grupo1-9055-Proyecto\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\STEVEN\source\repos\PruebaGit\Grupo1-9055-Proyecto\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\STEVEN\source\repos\PruebaGit\Grupo1-9055-Proyecto\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\STEVEN\source\repos\PruebaGit\Grupo1-9055-Proyecto\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\UNIVERSIDAD\MOANSO\PROYECTO - PROMAS\Grupo1-9055-Proyecto\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\UNIVERSIDAD\MOANSO\PROYECTO - PROMAS\Grupo1-9055-Proyecto\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\UNIVERSIDAD\MOANSO\PROYECTO - PROMAS\Grupo1-9055-Proyecto\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\UNIVERSIDAD\MOANSO\PROYECTO - PROMAS\Grupo1-9055-Proyecto\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\UNIVERSIDAD\MOANSO\PROYECTO - PROMAS\Grupo1-9055-Proyecto\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\UNIVERSIDAD\MOANSO\PROYECTO - PROMAS\Grupo1-9055-Proyecto\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\STEVEN\Downloads\Grupo1-9055-Proyecto\Grupo1-9055-Proyecto\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\STEVEN\Downloads\Grupo1-9055-Proyecto\Grupo1-9055-Proyecto\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\STEVEN\Downloads\Grupo1-9055-Proyecto\Grupo1-9055-Proyecto\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\STEVEN\Downloads\Grupo1-9055-Proyecto\Grupo1-9055-Proyecto\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\STEVEN\Downloads\Grupo1-9055-Proyecto\Grupo1-9055-Proyecto\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\STEVEN\Downloads\Grupo1-9055-Proyecto\Grupo1-9055-Proyecto\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\Jordan\Downloads\Grupo1-9055-Proyecto\Grupo1-9055-Proyecto\Grupo1-9055-Proyecto\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\Jordan\Downloads\Grupo1-9055-Proyecto\Grupo1-9055-Proyecto\Grupo1-9055-Proyecto\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\Jordan\Downloads\Grupo1-9055-Proyecto\Grupo1-9055-Proyecto\Grupo1-9055-Proyecto\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\Jordan\Downloads\Grupo1-9055-Proyecto\Grupo1-9055-Proyecto\Grupo1-9055-Proyecto\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\Jordan\Downloads\Grupo1-9055-Proyecto\Grupo1-9055-Proyecto\Grupo1-9055-Proyecto\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\Jordan\Downloads\Grupo1-9055-Proyecto\Grupo1-9055-Proyecto\Grupo1-9055-Proyecto\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\Jordan\Downloads\EF MOANSON (2)\EF MOANSON\Grupo1-9055-Proyecto\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\Jordan\Downloads\EF MOANSON (2)\EF MOANSON\Grupo1-9055-Proyecto\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\Jordan\Downloads\EF MOANSON (2)\EF MOANSON\Grupo1-9055-Proyecto\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\Jordan\Downloads\EF MOANSON (2)\EF MOANSON\Grupo1-9055-Proyecto\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\Jordan\Downloads\EF MOANSON (2)\EF MOANSON\Grupo1-9055-Proyecto\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\Jordan\Downloads\EF MOANSON (2)\EF MOANSON\Grupo1-9055-Proyecto\CapaEntidad\obj\Debug\CapaEntidad.pdb
